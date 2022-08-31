@@ -1,1 +1,1 @@
-echo "command" > update_to_date
+git pull
