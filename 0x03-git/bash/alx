@@ -1,5 +1,2 @@
 #!/bin/bash
-update_script
-echo "ALX Schoo is so cool!"
-echo "Alx School is so cool!"
-main
+echo "ALX Schoo"
